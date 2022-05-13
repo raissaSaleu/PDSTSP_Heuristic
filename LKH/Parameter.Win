@@ -1,0 +1,2 @@
+PROBLEM_FILE = Instances\For_LKH\route.tsp
+TOUR_FILE = Instances\For_LKH\solution.sol

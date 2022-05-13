@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1499682198 source:e:\pdstsp_final\main.cpp
+	"Heuristics.h"
+	<stdlib.h>
+	<math.h>
+	<string>
+	<iostream>
+	<sstream>
+	<cstring>
+	<vector>
+	<fstream>
+
+1499467830 e:\pdstsp_final\tsp.h
+	"Node.h"
+
+1499551886 e:\pdstsp_final\node.h
+	"Globals.h"
+
+1499682220 e:\pdstsp_final\globals.h
+	<algorithm>
+	<deque>
+
+1499446704 source:e:\pdstsp_final\node.cpp
+	"Node.h"
+
+1499577354 source:e:\pdstsp_final\tsp.cpp
+	"TSP.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	"math.h"
+
+1499686222 source:e:\pdstsp_final\heuristics.cpp
+	"Heuristics.h"
+	<iostream>
+	<algorithm>
+	<time.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<limits>
+
+1499664358 e:\pdstsp_final\heuristics.h
+	<fstream>
+	"TSP.h"
+
+1499446704 source:e:\pdstsp version finale\pdstsp_final\node.cpp
+	"Node.h"
+
+1499551886 e:\pdstsp version finale\pdstsp_final\node.h
+	"Globals.h"
+
+1500023566 e:\pdstsp version finale\pdstsp_final\globals.h
+	<algorithm>
+	<deque>
+
+1499960578 source:e:\pdstsp version finale\pdstsp_final\tsp.cpp
+	"TSP.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	"math.h"
+
+1499959834 e:\pdstsp version finale\pdstsp_final\tsp.h
+	"Node.h"
+
+1500023242 source:e:\pdstsp version finale\pdstsp_final\main.cpp
+	"Heuristics.h"
+	<stdlib.h>
+	<math.h>
+	<string>
+	<iostream>
+	<sstream>
+	<cstring>
+	<vector>
+	<fstream>
+
+1499812232 e:\pdstsp version finale\pdstsp_final\heuristics.h
+	<fstream>
+	"TSP.h"
+
+1499960770 source:e:\pdstsp version finale\pdstsp_final\heuristics.cpp
+	"Heuristics.h"
+	<iostream>
+	<algorithm>
+	<time.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<limits>
+
+1551547383 source:c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\heuristics.cpp
+	"Heuristics.h"
+	<iostream>
+	<algorithm>
+	<time.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<string>
+
+1551350874 c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\heuristics.h
+	<fstream>
+	"TSP.h"
+
+1511263089 c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\tsp.h
+	"Node.h"
+
+1537037736 c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\node.h
+	"Globals.h"
+
+1551547326 c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\globals.h
+	<algorithm>
+	<deque>
+
+1519746198 source:c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\node.cpp
+	"Node.h"
+
+1511267720 source:c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\tsp.cpp
+	"TSP.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	"math.h"
+
+1551547360 source:c:\users\raissa saleu\desktop\pdstsp version finale\pdstsp_final\main.cpp
+	"Heuristics.h"
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string>
+	<iostream>
+	<sstream>
+	<cstring>
+	<vector>
+	<fstream>
+
